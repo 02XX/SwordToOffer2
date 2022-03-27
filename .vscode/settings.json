@@ -7,6 +7,10 @@
         "ranges": "cpp",
         "functional": "cpp",
         "tuple": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
     }
 }
